@@ -17,11 +17,6 @@ A curated guide to ML paper writing — structure, style, examples, checklists, 
   > [!TIP]
   > Be consistent …
   > Cite close to the claim …
-  
-| **Tips** |
-| --- |
-| Be consistent (style, ordering, format). |
-| Cite close to the claim—after the author name (textual) or after the claim (parenthetical). If a sentence mixes multiple claims/sources, split it. |
 
 ## License
 - Code: MIT (see LICENSE)
