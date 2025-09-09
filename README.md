@@ -13,6 +13,11 @@ A curated guide to ML paper writing — structure, style, examples, checklists, 
 - If multiple works support the sentence … “(Doe, 2021; …)”
 - If different clauses are supported by different papers … split the sentence.
 
+- Summary of rules:
+  > [!TIP]
+  > Be consistent …
+  > Cite close to the claim …
+  
 | **Tips** |
 | --- |
 | Be consistent (style, ordering, format). |
