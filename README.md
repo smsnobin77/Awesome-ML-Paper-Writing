@@ -27,5 +27,5 @@ A curated guide to ML paper writing — structure, style, examples, checklists, 
         - When in doubt, follow the **current year’s** official template/author kit for that venue. Some details can change year to year.
 
 ## License
-- Code: MIT (see LICENSE)
-- Docs & images: CC BY-NC 4.0 (see LICENSE-docs)
+- Code: MIT
+- Docs & images: CC BY-NC 4.0
