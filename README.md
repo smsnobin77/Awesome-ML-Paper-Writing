@@ -9,15 +9,14 @@ A curated guide to ML paper writing — structure, style, examples, checklists, 
 
 ## Reference
 **Where to put citations**
-  - If you name the authors … “Smith et al. (2024) …”
-  - If multiple works support the sentence … “(Doe, 2021; …)”
-  - If different clauses are supported by different papers … split the sentence.
-  
-    > [!TIP]
-    > Be consistent (style, ordering, format).
-    >
-    > Cite close to the claim—after the author name (textual) or after the claim (parenthetical).  
-    > If a sentence mixes multiple claims/sources, split it.
+- If you name the authors … “Smith et al. (2024) …”
+- If multiple works support the sentence … “(Doe, 2021; …)”
+- If different clauses are supported by different papers … split the sentence.
+
+| **Tips** |
+| --- |
+| Be consistent (style, ordering, format). |
+| Cite close to the claim—after the author name (textual) or after the claim (parenthetical). If a sentence mixes multiple claims/sources, split it. |
 
 ## License
 - Code: MIT (see LICENSE)
