@@ -13,26 +13,11 @@ A curated guide to ML paper writing — structure, style, examples, checklists, 
   - If multiple works support the sentence … “(Doe, 2021; …)”
   - If different clauses are supported by different papers … split the sentence.
   
-  > [!TIP]
-  > Be consistent (style, ordering, format).
-  >
-  > Cite close to the claim—after the author name (textual) or after the claim (parenthetical).  
-  > If a sentence mixes multiple claims/sources, split it.
-
-**Where to put citations**
-- If you name the authors …
-- If multiple works support the sentence …
-- If different clauses …
-
-<details>
-<summary><strong>Tips</strong></summary>
-
-Be consistent (style, ordering, format).
-
-Cite close to the claim—after the author name (textual) or after the claim (parenthetical).  
-If a sentence mixes multiple claims/sources, split it.
-
-</details>
+    > [!TIP]
+    > Be consistent (style, ordering, format).
+    >
+    > Cite close to the claim—after the author name (textual) or after the claim (parenthetical).  
+    > If a sentence mixes multiple claims/sources, split it.
 
 ## License
 - Code: MIT (see LICENSE)
