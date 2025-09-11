@@ -23,6 +23,7 @@ A curated guide to ML paper writing — structure, style, examples, checklists, 
    - **NeurIPS:** **figures → below**; **tables → above**. *(Source: Formatting Instructions for NeurIPS)*
    - **ICML:** same as NeurIPS — **figures below**, **tables above**. *(Source: Submission and Formatting Instructions for ICML)*
    - **ICLR:** same as NeurIPS — **figures below**, **tables above**. *(Source: Formatting Instructions for ICLR Conference Submissions)*
+   - **CVPR/WACV:** same as NeurIPS — **figures below**, **tables above**. *(Source: Formatting Instructions for CVPR/WACV Conference Submissions)*
    - **Tips**
         - When in doubt, follow the **current year’s** official template/author kit for that venue. Some details can change year to year.
 
