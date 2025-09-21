@@ -1,5 +1,5 @@
 # Awesome ML paper writing style guide
-A curated guide to ML paper writing style guide — structure, style, examples, checklists, and templates for NeurIPS/ICML/ICLR/ACL/AAAI (and beyond).
+A curated guide to ML paper writing style guide — structure, style, examples, checklists, and templates for [NeurIPS](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh.pdf)/[ICML](https://www.overleaf.com/latex/templates/icml2025-template/dhxrkcgkvnkt.pdf)/[ICLR](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt.pdf)/[ACL](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj.pdf)/[AAAI](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp.pdf)/[CVPR](https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn.pdf) (and beyond).
 
 ## Table of contents
 - [Writing](#writing)
@@ -11,11 +11,11 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 ## Writing
 
 1. **Heading capitalization**
-   - **NeurIPS**: All headings should be lower case (a.k.a. sentence case, down style) — except for the first word and proper nouns — flush left, and bold. *Example:* Methodology and results [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh.pdf)
-   - **ACL**: All headings should be in title case (a.k.a. up style, headline style), flush left, and bold. *Example:* Methodology and Results [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj.pdf)
-   - **CVPR**: Same as NeurIPS — headings use sentence case (down style), flush left, and bold. *Example:* Methodology and results [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn.pdf)
-   - **ICLR**: First-level headings are written in small caps, flush left. *Example:* <span style="font-variant: small-caps;">Methodology and Results</span> [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt.pdf)
-   - **AAAI**: Same as ACL — headings use title case (headline style), flush left, and bold. *Example:* Methodology and Results [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp.pdf)
+   - **NeurIPS**: All headings should be lower case (a.k.a. sentence case, down style) — except for the first word and proper nouns — flush left, and bold. *Example:* Methodology and results
+   - **ACL**: All headings should be in title case (a.k.a. up style, headline style), flush left, and bold. *Example:* Methodology and Results
+   - **CVPR**: Same as NeurIPS — headings use sentence case (down style), flush left, and bold. *Example:* Methodology and results
+   - **ICLR**: First-level headings are written in small caps, flush left. *Example:* <span style="font-variant: small-caps;">Methodology and Results</span>
+   - **AAAI**: Same as ACL — headings use title case (headline style), flush left, and bold. *Example:* Methodology and Results
   
 2. **Page limit**
    - **NeurIPS**: 9 pages of main text for submission (figures/tables included in those 9); references don’t count. If accepted, you get +1 page (10 pages) for camera-ready. Appendix allowed and unlimited.
