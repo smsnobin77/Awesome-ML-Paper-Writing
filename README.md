@@ -6,7 +6,17 @@ A curated guide to ML paper writing — structure, style, examples, checklists, 
 - [Reference](#reference)
 - [Figures and Tables](#figures-and-tables)
 
+## Writing
+
+1. **Heading capitalization**
+   - **NeurIPS**: All headings should be lower case (a.k.a. sentence case, down style) — except for the first word and proper nouns — flush left, and bold. *Example:* **Methodology and results** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh.pdf)
+   - **ACL**: All headings should be in title case (a.k.a. up style, headline style), flush left, and bold. *Example:* **Methodology and Results** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj.pdf)
+   - **CVPR**: Same as NeurIPS — headings use sentence case (down style), flush left, and bold. *Example:* **Methodology and results** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn.pdf)
+   - **ICLR**: First-level headings are written in small caps, flush left. *Example:* **METHODOLOGY AND RESULTS** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt.pdf)
+   - **AAAI**: Same as ACL — headings use title case (headline style), flush left, and bold. *Example:* **Methodology and Results** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp.pdf)
+
 ## Reference
+
 1. **Where to put citations**
    - If you name the authors … “Smith et al. (2024) …”
    - If multiple works support the sentence … “(Doe, 2021; …)”
@@ -15,18 +25,6 @@ A curated guide to ML paper writing — structure, style, examples, checklists, 
      - Be **consistent** (style, ordering, and format) within the paper.
      - **Cite close to the claim**: place the citation right where the reader needs it—after the author name (textual) or after the claim (parenthetical). If a sentence mixes multiple claims/sources, split it.
     
-2. **Heading capitalization**
-   - **NeurIPS**: All headings should be lower case (a.k.a. sentence case, down style) — except for the first word and proper nouns — flush left, and bold. *Example:* **Methodology and results** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh.pdf)
-
-   - **ACL**: All headings should be in title case (a.k.a. up style, headline style), flush left, and bold. *Example:* **Methodology and Results** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj.pdf)
-
-   - **CVPR**: Same as NeurIPS — headings use sentence case (down style), flush left, and bold. *Example:* **Methodology and results** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn.pdf)
-
-   - **ICLR**: First-level headings are written in small caps, flush left. *Example:* **METHODOLOGY AND RESULTS** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt.pdf)
-
-   - **AAAI**: Same as ACL — headings use title case (headline style), flush left, and bold. *Example:* **Methodology and Results** [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp.pdf)
-
-
 ## Figures and Tables
 
 1. **Caption conventions: ACL · AAAI · NeurIPS · ICML · ICLR**
