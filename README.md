@@ -5,7 +5,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 - [Writing](#writing)
 - [Reference](#reference)
 - [Figures and tables](#figures-and-tables)
-- [LaTeX requirements] (#laTeX-requirements)
+- [LaTeX requirements](#laTeX-requirements)
 
 ## Writing
 
