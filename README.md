@@ -1,5 +1,5 @@
 # Awesome ML Paper Writing Style Guide
-A curated guide to ML paper writing stylde guide — structure, style, examples, checklists, and templates for NeurIPS/ICML/ICLR/ACL/AAAI (and beyond).
+A curated guide to ML paper writing style guide — structure, style, examples, checklists, and templates for NeurIPS/ICML/ICLR/ACL/AAAI (and beyond).
 
 ## Table of Contents
 - [Writing](#writing)
