@@ -1,11 +1,12 @@
 # Awesome ML paper writing style guide
+
 A curated guide to ML paper writing style guide — structure, style, examples, checklists, and templates for [NeurIPS](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh.pdf)/[ICML](https://www.overleaf.com/latex/templates/icml2025-template/dhxrkcgkvnkt.pdf)/[ICLR](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt.pdf)/[ACL](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj.pdf)/[AAAI](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp.pdf)/[CVPR](https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn.pdf) (and beyond).
 
 ## Table of contents
 - [Writing](#writing)
 - [Reference](#reference)
 - [Figures and tables](#figures-and-tables)
-- [LaTeX requirements](#laTeX-requirements)
+- [LaTeX requirements](#latex-requirements)
 - [Limitations and ethics](#limitations-and-ethics)
 
 ## Writing
@@ -13,6 +14,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 1. **Heading capitalization**
    - **NeurIPS**: All headings should be lower case (a.k.a. sentence case, down style) — except for the first word and proper nouns — flush left, and bold. *Example:* Methodology and results
    - **ACL**: All headings should be in title case (a.k.a. up style, headline style), flush left, and bold. *Example:* Methodology and Results
+   - **ICML**: Section and Subsection (title case, bold, numbered, flush left): *Example:* Methodology and Results; Subsubsection (small caps, content words capitalized, numbered, flush left): <span style="font-variant: small-caps;">Methodology and Results</span> 
    - **CVPR**: Same as NeurIPS — headings use sentence case (down style), flush left, and bold. *Example:* Methodology and results
    - **ICLR**: First-level headings are written in small caps, flush left. *Example:* <span style="font-variant: small-caps;">Methodology and Results</span>
    - **AAAI**: Same as ACL — headings use title case (headline style), flush left, and bold. *Example:* Methodology and Results
@@ -20,6 +22,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 2. **Page limit**
    - **NeurIPS**: 9 pages of main text for submission (figures/tables included in those 9); references don’t count. If accepted, you get +1 page (10 pages) for camera-ready. Appendix allowed and unlimited.
    - **CVPR**: 8 pages total for main text (including figures/tables) in the CVPR style; additional pages for references only are allowed. Appendix allowed and unlimited (Same as NeurIPS).
+   - **ICML**: 8 pages for the main body (submission), excluding references and appendices; appendices and references are unlimited in pages but the entire PDF ≤ 10 MB. For the final version you may add +1 page (i.e., 9 pages of main body).
    - **ACL**: Long papers: up to 8 pages of content for review, plus unlimited references; final versions get +1 page (up to 9). Short papers: 4 pages for review; final gets +1 (to 5). Appendix allowed and unlimited (Same as NeurIPS).
    - **ICLR**: Submission: main text ≤ 9 pages. During discussion & camera-ready: main text limit increases to 10 pages. References do not count; over-limit is desk-rejected. Appendix allowed and unlimited (Same as NeurIPS).
    - **AAAI**: Up to 7 pages of technical content, plus additional pages solely for references (submission). Proceedings allocation remains 7 content pages (+refs). AAAI allows a technical appendix during review, but for camera-ready the supplementary is not included in AAAI’s proceedings. 
@@ -78,6 +81,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 	- BST: use aaai.bst.
 
 ## Limitations and ethics
+
    - **ACL:** Limitations **required** (before references, not counted); Ethics **optional** (before references, not counted).  
    - **ICLR:** Limitations **not required**; Ethics statement **optional/encouraged** (before references, not counted).  
    - **NeurIPS:** Limitations **optional/encouraged**; no dedicated ethics section — **mandatory paper checklist** appears after references (not counted).  
