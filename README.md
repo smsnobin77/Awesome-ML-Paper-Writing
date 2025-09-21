@@ -1,7 +1,7 @@
-# Awesome ML Paper Writing Style Guide
+# Awesome ML paper writing style guide
 A curated guide to ML paper writing style guide — structure, style, examples, checklists, and templates for NeurIPS/ICML/ICLR/ACL/AAAI (and beyond).
 
-## Table of Contents
+## Table of contents
 - [Writing](#writing)
 - [Reference](#reference)
 - [Figures and Tables](#figures-and-tables)
@@ -32,7 +32,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
      - Be **consistent** (style, ordering, and format) within the paper.
      - **Cite close to the claim**: place the citation right where the reader needs it—after the author name (textual) or after the claim (parenthetical). If a sentence mixes multiple claims/sources, split it.
     
-## Figures and Tables
+## Figures and tables
 
 1. **Caption conventions: ACL · AAAI · NeurIPS · ICML · ICLR**
    - **ACL:** captions **below** both figures and tables. *(Source: acl-org.github.io)*
