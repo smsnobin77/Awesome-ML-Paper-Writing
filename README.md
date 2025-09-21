@@ -78,11 +78,12 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 	- BST: use aaai.bst.
 
 ## Limitations and ethics
-	- **ACL** Limitations: required; Ethics: optional
-	- **ICLR** Limitations: Not required; Ethics: Optional/encouraged 
-	- **NeurIPS** Limitations: optional but encouraged; Ethics: no dedicated section; checklist mandatory (after refs)
-	- **CVPR** Limitations: not required (encouraged to discuss); Ethics: no dedicated section; include IRB note when applicable
-	- **AAAI** Limitations: Not required; Ethics: Optional
+Limitations/Ethics requirements and placement by venue:
+	- **ACL:** Limitations **required** (before references, not counted); Ethics **optional** (before references, not counted).  
+	- **ICLR:** Limitations **not required**; Ethics statement **optional/encouraged** (before references, not counted).  
+	- **NeurIPS:** Limitations **optional/encouraged**; no dedicated ethics section — **mandatory paper checklist** appears after references (not counted).  
+	- **CVPR:** Limitations **not required** (encouraged to discuss); no dedicated ethics section — add **IRB/ethics note** if applicable (paper or supplementary).  
+	- **AAAI:** Limitations **not required**; Ethics statement **optional** (unnumbered, before acknowledgments/references, counts as content).  
 
 ## License
 - Code: MIT
