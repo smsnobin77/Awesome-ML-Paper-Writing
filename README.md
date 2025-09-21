@@ -1,5 +1,5 @@
-# Awesome ML Paper Cookbook
-A curated guide to ML paper writing — structure, style, examples, checklists, and templates for ACL/NeurIPS/ICML (and beyond).
+# Awesome ML Paper Writing Style Guide
+A curated guide to ML paper writing stylde guide — structure, style, examples, checklists, and templates for NeurIPS/ICML/ICLR/ACL/AAAI (and beyond).
 
 ## Table of Contents
 - [Writing](#writing)
