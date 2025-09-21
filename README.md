@@ -78,7 +78,6 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 	- BST: use aaai.bst.
 
 ## Limitations and ethics
-Limitations/Ethics requirements and placement by venue:
    - **ACL:** Limitations **required** (before references, not counted); Ethics **optional** (before references, not counted).  
    - **ICLR:** Limitations **not required**; Ethics statement **optional/encouraged** (before references, not counted).  
    - **NeurIPS:** Limitations **optional/encouraged**; no dedicated ethics section — **mandatory paper checklist** appears after references (not counted).  
