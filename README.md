@@ -4,7 +4,8 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 ## Table of contents
 - [Writing](#writing)
 - [Reference](#reference)
-- [Figures and Tables](#figures-and-tables)
+- [Figures and tables](#figures-and-tables)
+- [LaTeX requirements]#laTeX-requirements)
 
 ## Writing
 
@@ -43,6 +44,41 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
    - **CVPR/WACV:** same as NeurIPS — **figures below**, **tables above**. *(Source: Formatting Instructions for CVPR/WACV Conference Submissions)*
    - **Tips**
         - When in doubt, follow the **current year’s** official template/author kit for that venue. Some details can change year to year.
+
+## LaTeX requirements
+- **NeurIPS**
+	- Citations: natbib is loaded by default; you can opt-out with \usepackage[nonatbib]{neurips_2024} (the nonatbib option). 
+	- Tables: strongly recommend booktabs. 
+	- Math fonts: don’t use \bbold; use AMS fonts (amsfonts / amssymb). 
+	- Figures: use graphicx and specify widths as a fraction of \linewidth. 
+
+- **ACL**
+	- Base fonts: \usepackage{times}; txfonts/newtx acceptable alternatives. 
+	- Figures: use graphicx. 
+	- Citations: style is based on natbib (supports \citet, \citep, etc.). 
+	- Hyperlinks: DOIs/URLs appear as hyperlinks (uses hyperref). 
+	- BST: ships an ACL bibliography style (acl_natbib.bst). 
+
+- **CVPR**
+	- Cross-refs: template tells you to use \cref{...} (from cleveref) for figures/tables/equations/sections. 
+	- Figures: show \usepackage{graphicx} and \includegraphics[width=...]{...} usage. 
+	- Notes: The author kit does not publish a ban list like AAAI; it focuses on style compliance (two-column, numbered refs, etc.). References are numeric and listed in 9-pt Times. 
+
+- **ICLR**
+	- Citations: use natbib for in-text citations. 
+	- Figures: use graphicx with width set as a multiple of \linewidth. 
+	- Style/BST files: the kit provides iclr2025_conference.sty and iclr2025_conference.bst. 
+
+- **AAAI**
+	- Required packages: aaai, times, helvet, courier in the preamble. 
+	- What’s not allowed / restricted:
+		- No embedded links or bookmarks → effectively no hyperref in the proceedings PDFs. 
+		- titlesec is not allowed; spacing hacks and page-layout changes (e.g., \parindent, \parskip, etc.) are flagged. 
+		- Do not use [T1]fontenc (they suggest CM-Super if you need Type-1 CM). 
+		- Must compile with pdfLaTeX; no .ps/.eps figures (use .pdf/.png/.jpg). 
+		- Single .tex source file (excluding .bib); \input not allowed. 
+	- Fonts: Times/Nimbus for text (no Computer Modern for body text). 
+	- BST: use aaai.bst.
 
 ## License
 - Code: MIT
