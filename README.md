@@ -36,12 +36,12 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 ## Figures and tables
 
 **Caption conventions:**
-   - **ACL:** captions **below** both figures and tables. *(Source: acl-org.github.io)*
-   - **AAAI:** captions **below** for both figures and tables. *(Source: AAAI Press Formatting Instructions for Authors)*
-   - **NeurIPS:** **figures → below**; **tables → above**. *(Source: Formatting Instructions for NeurIPS)*
-   - **ICML:** same as NeurIPS — **figures below**, **tables above**. *(Source: Submission and Formatting Instructions for ICML)*
-   - **ICLR:** same as NeurIPS — **figures below**, **tables above**. *(Source: Formatting Instructions for ICLR Conference Submissions)*
-   - **CVPR/WACV:** same as NeurIPS — **figures below**, **tables above**. *(Source: Formatting Instructions for CVPR/WACV Conference Submissions)*
+   - **ACL:** captions **below** both figures and tables.
+   - **AAAI:** captions **below** for both figures and tables. 
+   - **NeurIPS:** **figures → below**; **tables → above**.
+   - **ICML:** same as NeurIPS — **figures below**, **tables above**. 
+   - **ICLR:** same as NeurIPS — **figures below**, **tables above**. 
+   - **CVPR/WACV:** same as NeurIPS — **figures below**, **tables above**. 
    - **Tips**
         - When in doubt, follow the **current year’s** official template/author kit for that venue. Some details can change year to year.
 
