@@ -25,7 +25,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 
 ## Reference
 
-**Where to put citations**
+**Where to put citations:**
    - If you name the authors … “Smith et al. (2024) …”
    - If multiple works support the sentence … “(Doe, 2021; …)”
    - If different clauses are supported by different papers … split the sentence.
@@ -35,7 +35,7 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
     
 ## Figures and tables
 
-**Caption conventions: ACL · AAAI · NeurIPS · ICML · ICLR**
+**Caption conventions:**
    - **ACL:** captions **below** both figures and tables. *(Source: acl-org.github.io)*
    - **AAAI:** captions **below** for both figures and tables. *(Source: AAAI Press Formatting Instructions for Authors)*
    - **NeurIPS:** **figures → below**; **tables → above**. *(Source: Formatting Instructions for NeurIPS)*
