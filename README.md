@@ -12,12 +12,12 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
 ## Writing
 
 1. **Heading capitalization**
-   - **NeurIPS**: All headings should be lower case (a.k.a. sentence case, down style) — except for the first word and proper nouns — flush left, and bold. *Example:* Methodology and results
-   - **ACL**: All headings should be in title case (a.k.a. up style, headline style), flush left, and bold. *Example:* Methodology and Results
-   - **ICML**: Section and Subsection (title case, bold, numbered, flush left): *Example:* Methodology and Results; Subsubsection (small caps, content words capitalized, numbered, flush left): <span style="font-variant: small-caps;">Methodology and Results</span> 
-   - **CVPR**: Same as NeurIPS — headings use sentence case (down style), flush left, and bold. *Example:* Methodology and results
-   - **ICLR**: First-level headings are written in small caps, flush left. *Example:* <span style="font-variant: small-caps;">Methodology and Results</span>
-   - **AAAI**: Same as ACL — headings use title case (headline style), flush left, and bold. *Example:* Methodology and Results
+   - **NeurIPS**: All headings should be **lower case** (a.k.a. sentence case, down style) — except for the first word and proper nouns — flush left, and bold. *Example:* Methodology and results
+   - **ACL**: All headings should be in **title case** (a.k.a. up style, headline style), flush left, and bold. *Example:* Methodology and Results
+   - **ICML**: Section and Subsection (**title case**, bold, numbered, flush left): *Example:* Methodology and Results; Subsubsection (**small caps**, content words capitalized, numbered, flush left): <span style="font-variant: small-caps;">Methodology and Results</span> 
+   - **CVPR**: Same as NeurIPS — headings use **sentence case** (down style), flush left, and bold. *Example:* Methodology and results
+   - **ICLR**: First-level headings are written in **small caps**, flush left. *Example:* <span style="font-variant: small-caps;">Methodology and Results</span>
+   - **AAAI**: Same as ACL — headings use **title case** (headline style), flush left, and bold. *Example:* Methodology and Results
   
 2. **Page limit**
    - **NeurIPS**: 9 pages of main text for submission (figures/tables included in those 9); references don’t count. If accepted, you get +1 page (10 pages) for camera-ready. Appendix allowed and unlimited.
