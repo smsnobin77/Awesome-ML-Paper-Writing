@@ -14,6 +14,13 @@ A curated guide to ML paper writing style guide — structure, style, examples, 
    - **CVPR**: Same as NeurIPS — headings use sentence case (down style), flush left, and bold. *Example:* Methodology and results [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn.pdf)
    - **ICLR**: First-level headings are written in small caps, flush left. *Example:* <span style="font-variant: small-caps;">Methodology and Results</span> [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt.pdf)
    - **AAAI**: Same as ACL — headings use title case (headline style), flush left, and bold. *Example:* Methodology and Results [Style guide (Overleaf)](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp.pdf)
+  
+2. **Page limit**
+   - **NeurIPS**: 9 pages of main text for submission (figures/tables included in those 9); references don’t count. If accepted, you get +1 page (10 pages) for camera-ready. Appendix allowed and unlimited.
+   - **CVPR**: 8 pages total for main text (including figures/tables) in the CVPR style; additional pages for references only are allowed. Appendix allowed and unlimited (Same as NeurIPS).
+   - **ACL**: Long papers: up to 8 pages of content for review, plus unlimited references; final versions get +1 page (up to 9). Short papers: 4 pages for review; final gets +1 (to 5). Appendix allowed and unlimited (Same as NeurIPS).
+   - **ICLR**: Submission: main text ≤ 9 pages. During discussion & camera-ready: main text limit increases to 10 pages. References do not count; over-limit is desk-rejected. Appendix allowed and unlimited (Same as NeurIPS).
+   - **AAAI**: Up to 7 pages of technical content, plus additional pages solely for references (submission). Proceedings allocation remains 7 content pages (+refs). AAAI allows a technical appendix during review, but for camera-ready the supplementary is not included in AAAI’s proceedings. 
 
 ## Reference
 
